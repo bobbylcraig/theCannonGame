@@ -1,3 +1,4 @@
 # theCannonGame
 <p>Really simplistic game written in exclusively Python for my intro CS class.</p>
 I'd say the programming is pretty messy and the game is rather imperfect. Still, it's fun to play if you're really bored...you might be able to beat my high score. I think the most difficult part of this project was getting the physics simulations right...I never realized just how difficult it is.
+<p>As you play the game, new factors are brought in with each subsequent level; eventually, the game becomes a fair amount of luck as winds gusting ±10 meters per second from the wind that is already blowing push your ball around and leave you on the edge of your seat. This project keeps the user interesting by allowing for plenty of input, encouraging competition with the leaderboard, and using real physics to model the behavior of launching a ball––it is really neat to see how the ball actually responds in different situations.</p>
